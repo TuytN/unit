@@ -1,0 +1,14 @@
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\Tests.Unit.KMS.UnitTestTraining.Services.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\Tests.Unit.KMS.UnitTestTraining.Services.pdb
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\KMS.UnitTestTraining.Entities.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\KMS.UnitTestTraining.Repositories.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\KMS.UnitTestTraining.Services.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\Moq.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\KMS.UnitTestTraining.Entities.pdb
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\KMS.UnitTestTraining.Repositories.pdb
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\KMS.UnitTestTraining.Services.pdb
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\bin\Debug\Moq.xml
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\obj\Debug\Tests.Unit.KMS.UnitTestTraining.Services.csprojResolveAssemblyReference.cache
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\obj\Debug\Tests.Unit.KMS.UnitTestTraining.Services.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\Test.Unit.KMS.UnitTestTraining.Services\obj\Debug\Tests.Unit.KMS.UnitTestTraining.Services.pdb

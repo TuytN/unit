@@ -1,0 +1,7 @@
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Repositories\bin\Debug\KMS.UnitTestTraining.Repositories.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Repositories\bin\Debug\KMS.UnitTestTraining.Repositories.pdb
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Repositories\bin\Debug\KMS.UnitTestTraining.Entities.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Repositories\bin\Debug\KMS.UnitTestTraining.Entities.pdb
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Repositories\obj\Debug\KMS.UnitTestTraining.Repositories.csprojResolveAssemblyReference.cache
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Repositories\obj\Debug\KMS.UnitTestTraining.Repositories.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Repositories\obj\Debug\KMS.UnitTestTraining.Repositories.pdb

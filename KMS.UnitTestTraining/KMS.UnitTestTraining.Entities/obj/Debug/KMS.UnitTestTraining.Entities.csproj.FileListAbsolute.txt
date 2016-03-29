@@ -1,0 +1,4 @@
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Entities\bin\Debug\KMS.UnitTestTraining.Entities.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Entities\bin\Debug\KMS.UnitTestTraining.Entities.pdb
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Entities\obj\Debug\KMS.UnitTestTraining.Entities.dll
+D:\UnitTest\Origin\launch-05-net-unit-test\KMS.UnitTestTraining\KMS.UnitTestTraining.Entities\obj\Debug\KMS.UnitTestTraining.Entities.pdb
